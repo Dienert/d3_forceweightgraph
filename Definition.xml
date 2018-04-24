@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<ExtensionObject Path="d3_forceweightgraph" Label="Force Directed Weight Graph" Description="D3 graph with weight in edges" Type="object" PageHeight="10000">
+    
+    <Dimension Label="Dimensão Origem:" Initial="" />
+    <Dimension Label="Dimensão Destino:" Initial="" />
+    <Measurement Label="Peso das Arestas:" Initial="" />
+    
+    <Initiate Name="Caption.Text" Value="Grafo com pesos" /> 
+    <Initiate Name="Caption.Font.Italic" Value="0" /> 
+    <Initiate Name="Chart.BgColor.ColorHex" Value="#FFFFFF" />
+    <Initiate Name="Layout.Normal.Width" Value="700" />
+    <Initiate Name="Layout.Normal.Height" Value="209" />
+
+</ExtensionObject>
