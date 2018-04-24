@@ -48,8 +48,6 @@ function WEIGHT_GRAPH() {
 			} else {
 				nodeSource['value'] = value;
 			}
-
-			nodeSource['value'] = value;
 			nodesObj[nodeSource.id] = nodeSource;
 			var nodeTarget = {}
 			nodeTarget['id'] = target;
